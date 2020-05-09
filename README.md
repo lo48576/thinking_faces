@@ -22,6 +22,7 @@ _THINKING FACE_ is the name of the unicode emoji U+1F914.
 | `asking_for_money_face` | <img src="svg/asking_for_money_face.svg" width="64"/> | `:thinking_face:` not thinking but asking for money. |
 | `facing_face` | <img src="svg/facing_face.svg" width="64"/> | `:thinking_face:` with its hand replaced by a face. |
 | `facing_think` | <img src="svg/facing_think.svg" width="64"/> | `:thinking_face:` with its face and hand swapped. |
+| `sinking_face` | <img src="svg/sinking_face.svg" width="64"/> | Sinking `:thinking_face:`. |
 | `thinking_think` | <img src="svg/thinking_think.svg" width="64"/> | `:thinking_face:` with its face replaced by a hand. |
 
 ## License
