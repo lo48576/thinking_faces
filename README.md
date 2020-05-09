@@ -19,6 +19,9 @@ _THINKING FACE_ is the name of the unicode emoji U+1F914.
 | Variant | Image | Description |
 |---------|-------|-------------|
 | `thinking_face` | <img src="svg/thinking_face.svg" width="64"/> | Original Unicode THINKING FACE (U+1F914) by Twemoji. |
+| `facing_face` | <img src="svg/facing_face.svg" width="64"/> | `:thinking_face:` with its hand replaced by a face. |
+| `facing_think` | <img src="svg/facing_think.svg" width="64"/> | `:thinking_face:` with its face and hand swapped. |
+| `thinking_think` | <img src="svg/thinking_think.svg" width="64"/> | `:thinking_face:` with its face replaced by a hand. |
 
 ## License
 
