@@ -30,7 +30,10 @@ _THINKING FACE_ is the name of the unicode emoji U+1F914.
 The works in this repository are licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed).
 
-See [AUTHORS.md](AUTHORS.md) for authors.
+Many of the works are primarily based on glyphs of [Twemoji](https://twemoji.twitter.com/),
+which are [licensed under CC-BY 4.0](https://github.com/twitter/twemoji/blob/v13.0.0/LICENSE-GRAPHICS).
+
+See [AUTHORS.md](AUTHORS.md) for authors of the images and SVG files in this repository.
 
 ### Contribution
 
