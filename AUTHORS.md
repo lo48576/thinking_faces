@@ -19,6 +19,7 @@ See <https://wiki.creativecommons.org/wiki/best_practices_for_attribution> for w
 | Variant | SVG file author | Original author | Links | Notes |
 |---------|-----------------|-----------------|-------|-------|
 | `thinking_face` | Twitter, Inc and other contributors | | <https://twemoji.twitter.com/> | |
+| `asking_for_money_face` | [らりお](https://mastodon.cardina1.red/@lo48576) | | | |
 | `facing_face` | [らりお](https://mastodon.cardina1.red/@lo48576) | | | |
 | `facing_think` | [らりお](https://mastodon.cardina1.red/@lo48576) | [ておりあ](https://wug.fun/@theoria) | <https://wug.fun/@theoria/102797827680416690>, <https://wug.fun/@theoria/104135573937266394> | |
 | `thinking_think` | [らりお](https://mastodon.cardina1.red/@lo48576) | | | |
