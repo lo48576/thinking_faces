@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="382.17001"
+   inkscape:export-xdpi="382.17001"
+   inkscape:export-filename="/home/lo48576/tmp/working/thinking-faces/wip/sinking_think.png"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="sinking_face.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <title
+     id="title20">:sinking_face:</title>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>:sinking_face:</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>らりお (@lo48576@mastodon.cardina1.red)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Twitter, Inc and other contributors
+mohemohe (@mohemohe@mstdn.plusminus.io)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>Based on :thinking_face: of Twemoji.</dc:description>
+        <dc:date>2020-05-09</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="680"
+     id="namedview16"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="19.79899"
+     inkscape:cx="29.604505"
+     inkscape:cy="34.652829"
+     inkscape:window-x="1920"
+     inkscape:window-y="768"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="matrix(0.70468837,0.70468837,-0.70468837,0.70468837,18.366138,-7.7349201)"
+     id="g1000">
+    <circle
+       id="circle2"
+       r="17"
+       cy="17.018"
+       cx="18"
+       fill="#ffcb4c" />
+    <path
+       id="path4"
+       d="m 14.524,21.036 c -0.145,-0.116 -0.258,-0.274 -0.312,-0.464 -0.134,-0.46 0.13,-0.918 0.59,-1.021 4.528,-1.021 7.577,1.363 7.706,1.465 0.384,0.306 0.459,0.845 0.173,1.205 -0.286,0.358 -0.828,0.401 -1.211,0.097 -0.11,-0.084 -2.523,-1.923 -6.182,-1.098 -0.274,0.061 -0.554,-0.016 -0.764,-0.184 z"
+       fill="#65471b" />
+    <ellipse
+       id="ellipse6"
+       ry="2.6559999"
+       rx="2.125"
+       cy="11.174"
+       cx="13.119"
+       fill="#65471b" />
+    <ellipse
+       id="ellipse8"
+       ry="2.6559999"
+       rx="2.125"
+       cy="12.236"
+       cx="24.375"
+       fill="#65471b" />
+    <path
+       id="path10"
+       d="m 17.276,35.149 c 0,0 1.265,-0.411 1.429,-1.352 0.173,-0.972 -0.624,-1.167 -0.624,-1.167 0,0 1.041,-0.208 1.172,-1.376 0.123,-1.101 -0.861,-1.363 -0.861,-1.363 0,0 0.97,-0.4 1.016,-1.539 0.038,-0.959 -0.995,-1.428 -0.995,-1.428 0,0 5.038,-1.221 5.556,-1.341 0.516,-0.12 1.32,-0.615 1.069,-1.694 -0.249,-1.08 -1.204,-1.118 -1.697,-1.003 -0.494,0.115 -6.744,1.566 -8.9,2.068 l -1.439,0.334 c -0.54,0.127 -0.785,-0.11 -0.404,-0.512 0.508,-0.536 0.833,-1.129 0.946,-2.113 0.119,-1.035 -0.232,-2.313 -0.433,-2.809 -0.374,-0.921 -1.005,-1.649 -1.734,-1.899 -1.137,-0.39 -1.945,0.321 -1.542,1.561 0.604,1.854 0.208,3.375 -0.833,4.293 -2.449,2.157 -3.588,3.695 -2.83,6.973 0.828,3.575 4.377,5.876 7.952,5.048 z"
+       fill="#f19020" />
+    <path
+       id="path12"
+       d="M 9.296,6.351 C 9.132,6.263 8.993,6.127 8.905,5.952 8.689,5.524 8.865,5.025 9.298,4.84 c 4.266,-1.831 7.699,-0.043 7.843,0.034 0.433,0.231 0.608,0.747 0.391,1.154 -0.216,0.405 -0.74,0.546 -1.173,0.318 C 16.236,6.283 13.527,4.914 10.081,6.393 9.824,6.502 9.534,6.478 9.296,6.351 Z m 12.135,3.75 C 21.275,10.003 21.145,9.858 21.069,9.677 20.882,9.235 21.092,8.75 21.537,8.593 c 4.381,-1.536 7.685,0.48 7.823,0.567 0.415,0.26 0.555,0.787 0.312,1.178 -0.242,0.39 -0.776,0.495 -1.191,0.238 -0.12,-0.072 -2.727,-1.621 -6.267,-0.379 -0.266,0.091 -0.553,0.046 -0.783,-0.096 z"
+       fill="#65471b" />
+  </g>
+  <g
+     id="g44">
+    <g
+       id="g36">
+      <rect
+         style="fill:#0080e1;fill-opacity:1;stroke-width:0"
+         id="rect833"
+         width="35.98888"
+         height="6.1519699"
+         x="0.011118138"
+         y="29.84803" />
+      <path
+         style="fill:#0080e1;fill-opacity:1;stroke-width:0"
+         d="m 35.988897,25.909647 c -2.999009,2.062167 -5.998257,3.938425 -8.997266,3.938425 -2.999009,0 -5.998018,-1.876258 -8.997266,-3.938425 -2.999009,-2.062088 -5.998066,-3.938312 -8.9971467,-3.938312 -2.9990807,0 -5.9981614,1.876224 -8.997218310228555,3.938312 V 29.84803 H 36 v -3.938383 z"
+         title="sin(x)"
+         id="path933" />
+    </g>
+    <g
+       id="g30">
+      <rect
+         y="32.868717"
+         x="0.011118148"
+         height="3.1312828"
+         width="35.98888"
+         id="rect833-6"
+         style="fill:#36b0f3;fill-opacity:1;stroke-width:0" />
+      <path
+         id="path933-7"
+         title="sin(x)"
+         d="m 35.988897,28.930333 c -2.999009,2.062167 -5.998257,3.938424 -8.997266,3.938424 -2.999009,0 -5.998018,-1.876257 -8.997266,-3.938424 C 14.995356,26.868244 11.996299,24.99202 8.9972183,24.99202 5.9981376,24.99202 2.9990569,26.868244 0,28.930333 v 3.938383 h 36 v -3.938383 z"
+         style="fill:#36b0f3;fill-opacity:1;stroke-width:0" />
+    </g>
+  </g>
+</svg>
