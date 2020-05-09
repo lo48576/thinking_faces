@@ -46,14 +46,10 @@ See [AUTHORS.md](AUTHORS.md) for authors.
         + License: CC-BY 4.0.
         + Author, contributor, etc.
 2. Generate png images from the SVG image.
-    1. Convert to PNG files.
-        + With inkscape 1.0, `inkscape --export-filename={{name}}.png --export-width={{size}} --export-height={{size}} {{name}}.svg`.
-            - Replace `{{name}}` to the variant name, `{{size}}` to 256 and 1024.
-            - `{{name}}` should only contain alphanumerics and underscores (`_`).
-    2. Minimize the PNG files.
-        + [`oxipng`](https://github.com/shssoichiro/oxipng/) is recommended.
-        + [`optipng`](http://optipng.sourceforge.net/) can also be used instead.
-    3. Put them into `png/{{size}}/`.
+    1. Ensure you have [Inkscape](https://inkscape.org/) and
+      {[`oxipng`](https://github.com/shssoichiro/oxipng/) or [`optipng`](http://optipng.sourceforge.net/)} installed.
+    2. Run `bin/generate-png.sh {{variant_name}}`.
+      Replace `{{variant_name}}` with your new variant.
 3. Update the document.
     1. Update `Variants` seciton of `README.md`.
     2. Update `AUTHORS.md`.
