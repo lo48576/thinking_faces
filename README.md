@@ -46,7 +46,7 @@ See [AUTHORS.md](AUTHORS.md) for authors.
         + Author, contributor, etc.
 2. Generate png images from the SVG image.
     1. Convert to PNG files.
-        + With inkscape 1.0, `inkscape --export-png={{name}}.png --export-width={{size}} --export-height={{size}} {{name}}.svg`.
+        + With inkscape 1.0, `inkscape --export-filename={{name}}.png --export-width={{size}} --export-height={{size}} {{name}}.svg`.
             - Replace `{{name}}` to the variant name, `{{size}}` to 256 and 1024.
             - `{{name}}` should only contain alphanumerics and underscores (`_`).
     2. Minimize the PNG files.
