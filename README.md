@@ -23,6 +23,7 @@ _THINKING FACE_ is the name of the unicode emoji U+1F914.
 | `facing_face` | <img src="svg/facing_face.svg" width="64"/> | `:thinking_face:` with its hand replaced by a face. |
 | `facing_think` | <img src="svg/facing_think.svg" width="64"/> | `:thinking_face:` with its face and hand swapped. |
 | `sinking_face` | <img src="svg/sinking_face.svg" width="64"/> | Sinking `:thinking_face:`. |
+| `syncing_face` | <img src="svg/syncing_face.svg" width="64"/> | `:thinking_face:` being synchronized. |
 | `thinking_think` | <img src="svg/thinking_think.svg" width="64"/> | `:thinking_face:` with its face replaced by a hand. |
 
 ## License
