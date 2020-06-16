@@ -27,6 +27,7 @@ _THINKING FACE_ is the name of the unicode emoji U+1F914.
 | `syncing_face` | <img src="svg/syncing_face.svg" width="64"/> | `:thinking_face:` being synchronized. |
 | `thinking_think` | <img src="svg/thinking_think.svg" width="64"/> | `:thinking_face:` with its face replaced by a hand. |
 | `thinking_king` | <img src="svg/thinking_king.svg" width="64"/> | `:thinking_face:` with a crown. |
+| `thinking_thin_king` | <img src="svg/thinking_thin_king.svg" width="64"/> | Thin `:thinking_face:` with a crown. |
 
 ## License
 
