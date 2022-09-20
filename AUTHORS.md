@@ -25,4 +25,6 @@ See <https://wiki.creativecommons.org/wiki/best_practices_for_attribution> for w
 | `facing_think` | [らりお](https://mastodon.cardina1.red/@lo48576) | [ておりあ](https://wug.fun/@theoria) | <https://wug.fun/@theoria/102797827680416690>, <https://wug.fun/@theoria/104135573937266394> | |
 | `sinking_face` | [らりお](https://mastodon.cardina1.red/@lo48576) | [mohemohe](https://mstdn.plusminus.io/@mohemohe) | <https://mstdn.plusminus.io/@mohemohe/104138670696463364> | |
 | `syncing_face` | [らりお](https://mastodon.cardina1.red/@lo48576) | | | |
+| `thinking_king` | [wass80](https://twitter.com/wass80) | | | |
+| `thinking_thin_king` | [wass80](https://twitter.com/wass80) | | | |
 | `thinking_think` | [らりお](https://mastodon.cardina1.red/@lo48576) | | | |
